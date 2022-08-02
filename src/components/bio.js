@@ -43,7 +43,7 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-          A place where we are all humans again
+          A time when we are all humans again
         </p>
       )}
     </div>
