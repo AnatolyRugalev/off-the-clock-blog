@@ -39,11 +39,11 @@ const Bio = () => {
         width={50}
         height={50}
         quality={95}
-        alt="Profile picture"
+        alt="Toly's face"
       />
       {author?.name && (
         <p>
-          Written by <strong>{author.name}</strong> {author?.summary || null}
+          A place where we are all humans again
         </p>
       )}
     </div>

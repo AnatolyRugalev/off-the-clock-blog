@@ -3,7 +3,6 @@ module.exports = {
     title: `Off The Clock`,
     author: {
       name: `Toly Rugalev`,
-      summary: `who rumbles about stuff off the clock.`,
     },
     description: `A blog about random stuff`,
     siteUrl: `https://off-the-clock.io`,
