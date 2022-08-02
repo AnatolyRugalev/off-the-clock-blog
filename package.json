@@ -1,0 +1,49 @@
+{
+  "name": "off-the-clock-blog",
+  "private": true,
+  "description": "A blog powered by Gatsby and Markdown",
+  "version": "0.1.0",
+  "author": "Anatoly Rugalev <anatoly.rugalev@gmail.com>",
+  "dependencies": {
+    "gatsby": "^4.19.2",
+    "gatsby-plugin-feed": "^4.19.0",
+    "gatsby-plugin-gatsby-cloud": "^4.19.0",
+    "gatsby-plugin-google-analytics": "^4.19.0",
+    "gatsby-plugin-image": "^2.19.0",
+    "gatsby-plugin-manifest": "^4.19.0",
+    "gatsby-plugin-offline": "^5.19.0",
+    "gatsby-plugin-sharp": "^4.19.0",
+    "gatsby-remark-copy-linked-files": "^5.19.0",
+    "gatsby-remark-external-links": "^0.0.4",
+    "gatsby-remark-images": "^6.19.0",
+    "gatsby-remark-prismjs": "^6.19.0",
+    "gatsby-remark-responsive-iframe": "^5.19.0",
+    "gatsby-remark-smartypants": "^5.19.0",
+    "gatsby-source-filesystem": "^4.19.0",
+    "gatsby-transformer-remark": "^5.19.0",
+    "gatsby-transformer-sharp": "^4.19.0",
+    "prismjs": "^1.28.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "typeface-merriweather": "0.0.72",
+    "typeface-montserrat": "0.0.75"
+  },
+  "devDependencies": {
+    "gatsby-plugin-favicons": "^2.0.0",
+    "prettier": "^2.7.1"
+  },
+  "homepage": "https://off-the-clock.io",
+  "license": "0BSD",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnatolyRugalev/off-the-clock-blog"
+  },
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+    "start": "gatsby develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  }
+}
