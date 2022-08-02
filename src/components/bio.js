@@ -43,6 +43,7 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
+          <strong>Toly Rugalev</strong><br />
           A time when we are all humans again
         </p>
       )}
