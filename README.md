@@ -1,3 +1,3 @@
 # Off The Clock Blog
 
-This is basic Gatsby blog with Markdown files taken from my private Obsidian vault
+[off-the-clock.io](https://off-the-clock.io)
