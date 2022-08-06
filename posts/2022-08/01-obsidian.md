@@ -1,8 +1,9 @@
 ---
 title: Obsidian
 date: "2022-08-01T00:00:00Z"
-description: "My first experience with Obsidian"
 status: published
+description: |
+    My first experience with Obsidian and the first post in this blog
 ---
 
 How comes that I've never heard of [Obsidian](https://obsidian.md/) before? It's such a great tool, and I've been looking for something like this for ages. I always use Markdown to mark my thoughts down (pun intended), and it has always been a random process for me. Plugin selection is really nice: git support to sync the data, Excalidraw for quick drawings, Notion-like features like databases. It all just ... makes sense.
