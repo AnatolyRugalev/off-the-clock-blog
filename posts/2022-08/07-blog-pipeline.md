@@ -12,5 +12,5 @@ Anyway, I just wanted to quickly post an update on my progress on blog publishin
 
 This might sound a bit overengineered for two posts I have at this moment, however I see clear benefits in reduced friction and flexibility. I'm not the best writer, of course, but I can only improve through consistency, and the easy way of writing with no obligations is what I need.
 
-Sincerely,
+Sincerely,  
 Toly
