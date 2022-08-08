@@ -7,24 +7,11 @@ module.exports = {
     description: `A blog about random stuff`,
     siteUrl: `https://off-the-clock.io`,
     social: {
-      twitter: `anatolyrugalev`,
+      discussions: 'https://github.com/AnatolyRugalev/off-the-clock-blog/discussions',
+      twitter: `https://twitter.com/AnatolyRugalev`,
     },
   },
   plugins: [
-    {
-      resolve: `gatsby-transformer-remark`,
-      options: {
-        plugins: [
-          {
-            resolve: "gatsby-remark-external-links",
-            options: {
-              target: "_self",
-              rel: "nofollow"
-            }
-          }
-        ]
-      }
-    },
     `gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,
@@ -55,6 +42,13 @@ module.exports = {
             options: {
               wrapperStyle: `margin-bottom: 1.0725rem`,
             },
+          },
+          {
+            resolve: "gatsby-remark-external-links",
+            options: {
+              target: "_blank",
+              rel: "nofollow"
+            }
           },
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,

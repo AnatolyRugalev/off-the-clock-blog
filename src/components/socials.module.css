@@ -1,0 +1,29 @@
+.socials {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+}
+
+.socials a {
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    opacity: 0.5;
+    font-size: 0;
+    background-size: 100%;
+    margin-right: var(--spacing-2);
+}
+
+.socials a:hover {
+    opacity: 1.0;
+}
+
+.socials a.github {
+    background-image: url(../images/octocat.svg);
+}
+
+.socials a.twitter {
+    background-image: url(../images/twitter.svg);
+}
