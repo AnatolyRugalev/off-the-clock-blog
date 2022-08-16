@@ -3,7 +3,7 @@ title: Off The Clock Manifesto
 date: "2022-08-08T00:00:00Z"
 status: published
 description: |
-    Am I "good enough" to do this? Yes. And to kick this blog off, I declare my values in a Manifesto. 
+    Am I "good enough" to do this? Yes. And to kick this blog off, I declare my values in a Manifesto
 ---
 
 Off The Clock is a place where I have a privilege to relax my quality standards. Here I can talk about anything, really, but since tech is the biggest of my many passions, it is likely that the content here will cover a decent portion of my professional activity.
