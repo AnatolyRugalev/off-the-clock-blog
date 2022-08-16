@@ -36,14 +36,12 @@ Goal setting is such a boring term, that I feel disgust just typing this sentenc
 
 > Ambition - a strong desire to do or to achieve something, typically requiring determination and hard work
 
-Just reading this gave me some chills. I am OK to work hard as long as the work is aligned with my ambitions. Everyone should have ambitions. Do you know what else everyone should have? An instruction set to reach them. Yes, that's right, I just replaced a boring term again. I enjoy planning sometimes, but I know that a lot of people don't. Some even might think I'm a psycho, but I kindly disagree. Let me show you the basic data flow diagram that shows the ambitions pipeline.
+Just reading this gave me some chills. I am OK to work hard as long as the work is aligned with my ambitions. Everyone should have ambitions. Do you know what else everyone should have? An instruction set to reach them. Yes, that's right, I just replaced a boring term again. I enjoy planning sometimes, but I know that a lot of people hate it. Some even might think I'm a psycho, but I kindly disagree. Let me show you the basic data flow diagram that shows the ambitions pipeline.
 
 ![Ambition -> Instruction Set -> Machine](../../media/ambition-instruction-set-machine.png)
 
-Now, let's redraw it with boring people terms
+Ambitions are actionable by definition, and to make sense out of them, you've got to actually put some work to satisfy them. The instruction set is made by asking a simple question: how do I satisfy my ambitions? What are the stepping stones that get me closer to the goal? If the ambition is a goal, and the instruction set is a plan, what is the Machine? What executes the plan?
 
 ![Goal -> Plan -> ?](../../media/goal-plan-question.png)
 
-Wait a minute, what is the boring definition of the Machine? Who or what executes the plan? It's a person. It's you and me.
-
-You are a Machine.
+You already know the answer. You are the Machine.
