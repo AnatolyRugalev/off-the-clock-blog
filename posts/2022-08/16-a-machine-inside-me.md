@@ -26,7 +26,7 @@ That's right, to charge your battery, you've got to pull the plug. This might so
 
 ![charge to time graph](../../media/charge-to-time.png)
 
-Go do other stuff. Spend some time with friends and family, visit a coffee place that never had time to go to. Give yourself some slack and future yourself will thank you, I promise. Historically, I was able to keep the charge at about 60-100% most of the time, but I ain't perfect. I remember a day about 4 years ago when I hit rock bottom, and this was no joke. I had to undergo a battery replacement surgery and the painful process of recovery because my physical health degraded to a catastrophic level.
+Go do other stuff. Spend some time with friends and family, visit a coffee place that you never had time to go to. Give yourself some slack and future yourself will thank you, I promise. Historically, I was able to keep the charge at about 60-100% most of the time, but I ain't perfect. I remember a day about 4 years ago when I hit rock bottom, and this was no joke. I had to undergo a battery replacement surgery and the painful process of recovery because my physical health degraded to a catastrophic level.
 
 Today, at this moment, my charge seats at about 75%. That's not bad, but it's just enough to keep me going every week. On Fridays, it could get down to 65-70%, and when this happens, I plug my Machine off for the good part of the weekend.
 
