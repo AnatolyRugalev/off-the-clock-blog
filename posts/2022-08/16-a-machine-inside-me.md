@@ -20,7 +20,7 @@ Dopamine is very important for focus. I learned this the hardest way possible, t
 
 Today, thanks to my diagnosis, I have medication and my Machine is lubricated better than ever. I'm still in the search of the right balance, but having a tool to manage it changes everything. I don't need to drink a dozen of coffee cups a day anymore, I stopped wasting my time gaming countless hours, I don't need music to focus. Don't get me wrong, I still enjoy all these things, but the fact that I don't need them to survive makes a huge difference.
 
-## Plug the Plug to Charge
+## Pull the Plug to Charge
 
 That's right, to charge your battery, you've got to pull the plug. This might sound counterintuitive, but this is how my Machine works. It will recharge itself over time - I'm still not sure where this energy comes from, but it seems that it has a solar panel hidden somewhere, and believe me, you don't want to drain it to zero. The more charge you drain, the more time it will take to fully recharge. Please refer to my scientific chart below.
 
